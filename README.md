@@ -35,3 +35,6 @@ Features:
 End-to-end signal flow for video and audio.
 Beginner-friendly setup with affordable equipment options.
 Visual documentation for easy replication and learning.
+
+Using https://app.diagrams.net for diagrams. 
+
